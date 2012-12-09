@@ -1,7 +1,7 @@
 VilniusPHP Meetups
 ==================
 
-Presentations from VilniusPHP community meetups.
+Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
 Meetup #1 (2012-12-06)
 ---------
