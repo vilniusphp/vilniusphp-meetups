@@ -9,3 +9,9 @@ Meetup #1 (2012-12-06)
 * "Ar verta naudoti framework'us?" Povilas Korop
 * "Seni projektai, nauji įrankiai" Povilas Balzaravičius
 * "Dažniausiai sutinkamos esminės MySQL našumo problemos ir jų sprendimo būdai" Vaidas Zlotkus
+
+Meetup #2 (2013-01-03)
+---------
+* [Caching strategies](http://www.rvl.io/aur1mas/caching/) Aurimas Baubkus
+* "Programavimas" su CSS (LESS stilių kalbos pavyzdžiu)" Georgij Lesnikov  
+* "Sphinx (Open Source Search Server)" Vaidas Žilionis  
