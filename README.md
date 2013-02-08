@@ -15,3 +15,9 @@ Meetup #2 (2013-01-03)
 * ["Caching strategies"](http://www.rvl.io/aur1mas/caching/) Aurimas Baubkus
 * "Programavimas" su CSS (LESS stilių kalbos pavyzdžiu)" Georgij Lesnikov  
 * "Sphinx (Open Source Search Server)" Vaidas Žilionis  
+
+Meetup #3 (2013-02-07)
+---------
+* "Dependency Injection Containers" Povilas Balzaravičius  
+* "Web projektų gamybos etapų eiliškumas" Liudas Markevičius  
+* "Projekto istorija augant iki 1.5 M vartotojų per dieną" Sergej Kurakin  
