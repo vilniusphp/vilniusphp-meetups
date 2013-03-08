@@ -21,3 +21,7 @@ Meetup #3 (2013-02-07)
 * "Dependency Injection Containers" Povilas Balzaravičius  
 * "Web projektų gamybos etapų eiliškumas" Liudas Markevičius  
 * "Projekto istorija augant iki 1.5 M vartotojų per dieną" Sergej Kurakin  
+
+Meetup #4 (2013-03-07)
+---------
+* "HTTP užklausų kešavimas naudojant Varnish" Paulius Leščinksas
