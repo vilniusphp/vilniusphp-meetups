@@ -26,3 +26,9 @@ Meetup #4 (2013-03-07)
 ---------
 * "HTTP užklausų kešavimas naudojant Varnish" Paulius Leščinksas
 * "Programinio kodo licencijos" Mantas Urbonas
+
+Meetup #5 (2013-04-04)
+---------
+* "statsd ir Graphite panaudojimas Eskimi realaus laiko monitoringui" Mantas Šidlauskas  
+* "MongoDB ir jos ypatumai" Arūnas Smaliukas  
+* "NGINX + PHP-FPM" Sergej Kurakin  
