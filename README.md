@@ -38,3 +38,9 @@ Meetup #6 (2013-05-02)
 * ["Node.js su**s"](https://speakerdeck.com/dymonaz/node-dot-js-sucks-for-vilniusphp) Dominykas Blyžė ([Nuorodos](https://gist.github.com/dymonaz/57b8c05d1dab662ce1f8))
 * ["Continuous Happiness by Continuous Delivery"](http://www.slideshare.net/sergejus/continuous-happiness-by-continuous-delivery) Sergėjus Barinovas
 * "Vagrant" Artūras Šmorgun
+
+Meetup 0x07 (2013-06-06)
+---------
+* "SQL injekcijos: kaip teisingai apsisaugoti?" Martynas Kraujalis 
+* "Responsive Web Design & Progressive Enhancement Dev'ams" Simonas Jončys  
+* "Redis - Mažas, greitas, galingas!" Sergej Kurakin  
