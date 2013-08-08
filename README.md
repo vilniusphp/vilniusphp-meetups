@@ -50,3 +50,8 @@ Meetup 0x08 (2013-07-04)
 * "Chrome developer tools in depth" Gediminas Mikelėnas 
 * "Missing peace in code decoupling" Mangirdas Skripka 
 * "Diskusijos apie programuotojo darbą, požiūrį ir galimybes" Tomas Beniušis 
+
+Meetup 0x09 (2013-08-01)
+---------
+* "Atviro kodo projektas, jo sėkmė ir nauda tau" Gediminas Morkevičius
+* ["Growing web spiders"](http://www.slideshare.net/juokaz/growing-web-spiders-vilniusphp) Juozas Kaziukėnas
