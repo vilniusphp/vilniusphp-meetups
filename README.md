@@ -55,3 +55,9 @@ Meetup 0x09 (2013-08-01)
 ---------
 * "Atviro kodo projektas, jo sėkmė ir nauda tau" Gediminas Morkevičius
 * ["Growing web spiders"](http://www.slideshare.net/juokaz/growing-web-spiders-vilniusphp) Juozas Kaziukėnas
+
+Meetup 0x0A (2013-09-05)
+---------
+* "Elasticsearch" Simonas Šerlinskas   
+* ["Being dangerous with git."](http://slides.gediminasm.org/being-dangerous-with-git-rebase/) Gediminas Morkevičius   
+* ["Capistrano: Still uploading files to FTP?"](http://www.slideshare.net/vidmantask/capistrano-vilniusphp) Vidmantas Kabošis   
