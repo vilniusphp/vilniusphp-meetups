@@ -61,3 +61,9 @@ Meetup 0x0A (2013-09-05)
 * ["Elasticsearch"](https://speakerdeck.com/saimaz/elasticsearch-vilniusphp) Simonas Šerlinskas   
 * ["Being dangerous with git."](http://slides.gediminasm.org/being-dangerous-with-git-rebase/) Gediminas Morkevičius   
 * ["Capistrano: Still uploading files to FTP?"](http://www.slideshare.net/vidmantask/capistrano-vilniusphp) Vidmantas Kabošis   
+
+Meetup 0x0B (2013-10-03)
+---------
+* ["Intro to PHP Unit Testing (EN)"](http://www.slideshare.net/ranm8/intro-to-php-testing) Ran Mizrahi   
+* ["HTML5 mobile apps. Tips & tricks."](http://www.slideshare.net/dariusleskauskas/mobile-web-apps-tips-tricks-vilnius-php) Darius Leskauskas   
+* "Laravel4 vs. Symfony2" Tautvilas Mečinskas   
