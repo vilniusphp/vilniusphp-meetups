@@ -67,3 +67,14 @@ Meetup 0x0B (2013-10-03)
 * ["Intro to PHP Unit Testing (EN)"](http://www.slideshare.net/ranm8/intro-to-php-testing) Ran Mizrahi   
 * ["HTML5 mobile apps. Tips & tricks."](http://www.slideshare.net/dariusleskauskas/mobile-web-apps-tips-tricks-vilnius-php) Darius Leskauskas   
 * "Laravel4 vs. Symfony2" Tautvilas Mečinskas   
+
+Meetup 0x0C (2013-11-07)
+---------
+* "Deliberate practice: Dojos, Katas & Sensei" Marijus Kilmanas
+* "Eventstore database and real time data in Web applications" Greg Young
+
+Meetup 0x0D (2013-12-05)
+---------
+* ["Vilnius PHP - pirmųjų metų apžvalga"](http://www.slideshare.net/PovilasBalzaravicius/vilnius-php-pirmj-met-apvalga) Povilas Balzaravičius
+* "PHP infrastructure: How we code, test & deploy" Paulius Podolskis
+* ["Modernus PHP testavimas: unit, integration, functional ir acceptance testai"](http://zilvinas.kuusas.lt/vilniusphp-presentation/) Žilvinas Kuusas
