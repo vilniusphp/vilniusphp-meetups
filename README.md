@@ -78,3 +78,9 @@ Meetup 0x0D (2013-12-05)
 * ["Vilnius PHP - pirmųjų metų apžvalga"](http://www.slideshare.net/PovilasBalzaravicius/vilnius-php-pirmj-met-apvalga) Povilas Balzaravičius
 * "PHP infrastructure: How we code, test & deploy" Paulius Podolskis
 * ["Modernus PHP testavimas: unit, integration, functional ir acceptance testai"](http://zilvinas.kuusas.lt/vilniusphp-presentation/) Žilvinas Kuusas
+
+Meetup 0x0F (2014-02-06)
+---------
+* ["Logas"](https://github.com/vilniusphp/vilniusphp-meetups/raw/master/2014-02-06/Log.pdf) Simonas Šerlinskas
+* ["Symfony2 Bundle rašymas atviram naudojimui"](https://github.com/vilniusphp/vilniusphp-meetups/raw/master/2014-02-06/Symfony2Bundles.pdf) Darius Leskauskas
+* ["Cucumber: intro į integracinį testavimą salotoms"](https://github.com/vilniusphp/vilniusphp-meetups/raw/master/2014-02-06/Cucumber.pdf) Vidmantas Kabošis
