@@ -84,3 +84,8 @@ Meetup 0x0F (2014-02-06)
 * ["Logas"](https://github.com/vilniusphp/vilniusphp-meetups/raw/master/2014-02-06/Log.pdf) Simonas Šerlinskas
 * ["Symfony2 Bundle rašymas atviram naudojimui"](https://github.com/vilniusphp/vilniusphp-meetups/raw/master/2014-02-06/Symfony2bundles.pdf) Darius Leskauskas
 * ["Cucumber: intro į integracinį testavimą salotoms"](https://github.com/vilniusphp/vilniusphp-meetups/raw/master/2014-02-06/Cucumber.pdf) Vidmantas Kabošis
+
+Meetup 0x10 (2014-03-06)
+---------
+* ["Testing by example: TDD, phpspec ir phpunit praktikoje"](http://slides.gediminasm.org/testing-by-example/) Gediminas Morkevičius   
+* "Behat: get it right" Marijus Kilmanas   
