@@ -92,5 +92,16 @@ Meetup 0x10 (2014-03-06)
 
 Meetup 0x11 (2014-04-03)
 ---------
-* ["Funkcinis programavimas su PHP"](http://www.facebook.com/l.php?u=http%3A%2F%2Faurelijus.banelis.lt%2Fprezentations%2Ffpphp%2FFP-PHP-v3.svg&h=aAQHC9K6k) Aurelijus Banelis   
+* ["Funkcinis programavimas su PHP"](http://aurelijus.banelis.lt/prezentations/fpphp/FP-PHP-v3.svg) Aurelijus Banelis   
 * "PHP aplikacijos našumo analizė naudojant Xdebug ir KCachegrind" Vaidotas Zlotkus
+
+Meetup 0x12 (2014-05-08)
+---------
+* ["Patirtis kuriant ImpressPages 4"](http://mangirdas.impresspages.org/vilniusphp2.pdf) Mangirdas Skripka   
+* "Profiliavimo vaidmuo atliekant architektūros pakeitimus" Justas Butkus   
+* "Įspūdžiai perėjus nuo Symfony 1 prie Symfony 2" Paulius Rimavičius   
+
+Meetup 0x13 (2014-06-05)
+---------
+* ["Denormalizacija ir kiti SQL optimizavimo būdai"](http://aurelijus.banelis.lt/prezentations/denormalization/denomralizacija-2014.pdf) Aurelijus Banelis   
+* "Git - pažabokim istoriją" Donatas Mačiūnas   
