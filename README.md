@@ -110,3 +110,8 @@ Meetup 0x17: CodeWeek.eu edition (2014-10-15)
 ---------
 * "Composer - Dependency Manager for PHP" Mindaugas Pelionis
 * ["Saugumas. Pagrindiniai principai ir dažniausiai paliekamos spragos"](https://docs.google.com/presentation/d/1SO7T60jm9PkXTwju6EcTRGxUqjFq30qEQlAo9gDTNO0/) Marius Grigaitis
+
+Meetup 0x18 (2014-11-06)
+---------
+* ["Ko (dažniausiai) nežino (pradedantieji) web programuotojai?"](http://www.slideshare.net/EmanuelisNorbutas/vilniusphp-0x18-ko-daniausiai-neino-pradedantieji-web-programuotojai) Emanuelis Norbutas   
+* ["Gearman - Hidden gears of your application"](http://kurakin.info/files/vilniusphp/Gearman.pdf) Sergej Kurakin   
