@@ -115,3 +115,9 @@ Meetup 0x18 (2014-11-06)
 ---------
 * ["Ko (dažniausiai) nežino (pradedantieji) web programuotojai?"](http://www.slideshare.net/EmanuelisNorbutas/vilniusphp-0x18-ko-daniausiai-neino-pradedantieji-web-programuotojai) Emanuelis Norbutas   
 * ["Gearman - Hidden gears of your application"](http://kurakin.info/files/vilniusphp/Gearman.pdf) Sergej Kurakin   
+
+Meetup 0x19 (2014-12-04)
+---------
+* ["Mikroservisų architektūra"](http://www.slideshare.net/kuusas/microservice-architecture-42382291) Žilvinas Kuusas
+* ["PHP QA Tools"](http://kurakin.info/files/4nfq/PHP_QA_Tools.pdf) Sergej Kurakin   
+* ["Kick-ass dev environment - tools I recommend for development process"](http://slides.gediminasm.org/kickass-dev-environment/) Gediminas Morkevičius
