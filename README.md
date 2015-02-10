@@ -3,10 +3,15 @@ VilniusPHP Meetups
 
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
+Meetup 0x1B (2014-02-05)
+---------
+* ["Deployment on shared hosting"](https://docs.google.com/a/impresspages.org/presentation/d/1kZydIgSiK9gkp4pd7aIlJ-P__c26Qyy1oz3BkwKipaE/edit?usp=sharing) Mangirdas Skripka
+* ["Using Capifony for Symfony apps deployment"](http://www.slideshare.net/kuusas/capifony-1) Žilvinas Kuusas
+
 Meetup 0x1A (2014-01-08)
 ---------
 * ["OrientDB in practice"](http://aurelijus.banelis.lt/prezentations/orientdb-2015/orientdb-in-practice-2015.pdf) Aurelijus Banelis
-* ["Deployment on shared hosting"](http://kurakin.info/files/vilniusphp/sphinx_rt.pdf) Sergej Kurakin   
+* ["SphinxSearch Real-Time Index"](http://kurakin.info/files/vilniusphp/sphinx_rt.pdf) Sergej Kurakin   
 
 Meetup 0x19 (2014-12-04)
 ---------
