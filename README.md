@@ -3,6 +3,16 @@ VilniusPHP Meetups
 
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
+Meetup 0x1E (2015-04-02)
+---------
+* "Mitigating the risk of fraudulent credit card payments" Vaidas Jusevičius
+* [From PHP to Machine Code](https://speakerdeck.com/juokaz/from-php-to-machine-code-vilnius-php-2015) Juozas Kaziukėnas
+* _Lighting talks_:
+ * "VilniuPHP community" Žilvinas Kusas
+ * [Freelancing Platforms](http://www.slideshare.net/vidmantask/freelancing-platforms-diff) Vidmantas Kabošis
+ * [JSON-LD](http://aurelijus.banelis.lt/prezentations/jsonld/jsonld-2015.pdf) Aurelijus Banelis
+ * "Keynotes from BuildStuff'14" Marijus Kilmanas
+
 Meetup 0x1D (2015-04-02)
 ---------
 * ["SAAS produktų kūrimas be papildomų pastangų"](https://github.com/vilniusphp/vilniusphp-meetups/raw/master/2015-04-02/Cloud-architecture.pdf) Mangirdas Skripka
