@@ -3,7 +3,7 @@ VilniusPHP Meetups
 
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
-Meetup 0x1E (2015-04-02)
+Meetup 0x1E (2015-05-07)
 ---------
 * "Mitigating the risk of fraudulent credit card payments" Vaidas Jusevičius
 * [From PHP to Machine Code](https://speakerdeck.com/juokaz/from-php-to-machine-code-vilnius-php-2015) Juozas Kaziukėnas
