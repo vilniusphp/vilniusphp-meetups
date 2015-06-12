@@ -4,8 +4,11 @@ Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
 
 ## Meetup 0x1F (2015-06-04)
-* [Continuous Delivery - Almost Continuous Almost Delivery](http://kurakin.info/files/vilniusphp/Continuous_Delivery.pdf) Sergej Kurakin   
-* [CasperJS: How to start testing legacy projects](http://www.slideshare.net/tautrimaspajarskas/tasting-your-first-test-burger) Tautrimas Pajarskas   
+* [Continuous Delivery - Almost Continuous Almost Delivery](http://kurakin.info/files/vilniusphp/Continuous_Delivery.pdf) Sergej Kurakin
+* [CasperJS: How to start testing legacy projects](http://www.slideshare.net/tautrimaspajarskas/tasting-your-first-test-burger) Tautrimas Pajarskas
+* _Lighting talks_:
+ * [Enhance your IDE](http://slides.com/aurelijusbanelis/enhance-your-ide/fullscreen) Aurelijus Banelis
+ * "SaaS for Symfony 2" Darius Leskauskas
 
 ## Meetup 0x1E (2015-05-07)
 * "Mitigating the risk of fraudulent credit card payments" Vaidas Jusevičius
