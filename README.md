@@ -1,9 +1,14 @@
-VilniusPHP Meetups
-==================
+# VilniusPHP Meetups
 
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
-Meetup 0x1E (2015-04-02)
+
+Meetup 0x1F (2015-06-04)
+---------
+* [Continuous Delivery - Almost Continuous Almost Delivery](http://kurakin.info/files/vilniusphp/Continuous_Delivery.pdf) Sergej Kurakin   
+* [CasperJS: How to start testing legacy projects](http://www.slideshare.net/tautrimaspajarskas/tasting-your-first-test-burger) Tautrimas Pajarskas   
+
+Meetup 0x1E (2015-05-07)
 ---------
 * "Mitigating the risk of fraudulent credit card payments" Vaidas Jusevičius
 * [From PHP to Machine Code](https://speakerdeck.com/juokaz/from-php-to-machine-code-vilnius-php-2015) Juozas Kaziukėnas
@@ -63,7 +68,7 @@ Meetup 0x12 (2014-05-08)
 
 Meetup 0x11 (2014-04-03)
 ---------
-* ["Funkcinis programavimas su PHP"](http://aurelijus.banelis.lt/prezentations/fpphp/FP-PHP-v3.svg) Aurelijus Banelis   
+* ["Funkcinis programavimas su PHP"](http://www.facebook.com/l.php?u=http%3A%2F%2Faurelijus.banelis.lt%2Fprezentations%2Ffpphp%2FFP-PHP-v3.svg&h=aAQHC9K6k) Aurelijus Banelis   
 * "PHP aplikacijos našumo analizė naudojant Xdebug ir KCachegrind" Vaidotas Zlotkus
 
 Meetup 0x10 (2014-03-06)
@@ -80,7 +85,7 @@ Meetup 0x0F (2014-02-06)
 Meetup 0x0D (2013-12-05)
 ---------
 * ["Vilnius PHP - pirmųjų metų apžvalga"](http://www.slideshare.net/PovilasBalzaravicius/vilnius-php-pirmj-met-apvalga) Povilas Balzaravičius
-* "PHP infrastructure: How we code, test & deploy" Paulius Podolskis
+* ["PHP infrastructure: How we code, test & deploy"](https://github.com/vilniusphp/vilniusphp-meetups/raw/master/2013-12-05/php%20infrastructure.pdf) Paulius Podolskis
 * ["Modernus PHP testavimas: unit, integration, functional ir acceptance testai"](http://zilvinas.kuusas.lt/vilniusphp-presentation/) Žilvinas Kuusas
 
 Meetup 0x0C (2013-11-07)
@@ -121,7 +126,7 @@ Meetup #6 (2013-05-02)
 ---------
 * ["Node.js su**s"](https://speakerdeck.com/dymonaz/node-dot-js-sucks-for-vilniusphp) Dominykas Blyžė ([Nuorodos](https://gist.github.com/dymonaz/57b8c05d1dab662ce1f8))
 * ["Continuous Happiness by Continuous Delivery"](http://www.slideshare.net/sergejus/continuous-happiness-by-continuous-delivery) Sergėjus Barinovas
-* "Vagrant" Artūras Šmorgun
+* ["Vagrant" Artūras Šmorgun](https://speakerdeck.com/asarturas/lets-automate)
 
 Meetup #5 (2013-04-04)
 ---------
@@ -151,4 +156,5 @@ Meetup #1 (2012-12-06)
 * ["Susitikom. Kas toliau?"](http://www.rvl.io/aur1mas/susitikom-kas-toliau/) Aurimas Baubkus
 * "Ar verta naudoti framework'us?" Povilas Korop
 * "Seni projektai, nauji įrankiai" Povilas Balzaravičius
-* "Dažniausiai sutinkamos esminės MySQL našumo problemos ir jų sprendimo būdai" Vaidas Zlotku
+* "Dažniausiai sutinkamos esminės MySQL našumo problemos ir jų sprendimo būdai" Vaidas Zlotkus
+
