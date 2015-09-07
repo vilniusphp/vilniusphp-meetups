@@ -13,6 +13,10 @@ Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 * "Ansible" Mantas Zimnickas
 * [Svetainių pritaikymas akliesiems](http://aurelijus.banelis.lt/prezentations/blind-2015/web-for-blind.pdf) Aurelijus Banelis
 
+## Meetup 0x20 (2015-07-02)
+* [Reducing load with RabbitMQ](http://www.slideshare.net/PovilasBalzaravicius/reducing-load-with-rabbitmq) Povilas Balzaravičius
+* "Introducing to Event Sourcing" Gediminas Šedbaras
+
 ## Meetup 0x1F (2015-06-04)
 * [Continuous Delivery - Almost Continuous Almost Delivery](http://kurakin.info/files/vilniusphp/Continuous_Delivery.pdf) Sergej Kurakin
 * [CasperJS: How to start testing legacy projects](http://www.slideshare.net/tautrimaspajarskas/tasting-your-first-test-burger) Tautrimas Pajarskas
