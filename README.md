@@ -3,6 +3,12 @@
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
 
+## Meetup 0x22 (2015-09-03)
+* "Elastic Stack (ELK)" Marius Bieliauskas
+* "Code review: techniques and best practices" Darius Leskauskas
+* _Lighting talks_:
+ * [Advanced acceptance testing](http://aurelijus.banelis.lt/prezentations/aceptance-2015/advanced-acceptance-tests-2015.pdf) Aurelijus Banelis
+
 ## Meetup 0x21 (2015-08-06)
 * "Ansible" Mantas Zimnickas
 * [Svetainių pritaikymas akliesiems](http://aurelijus.banelis.lt/prezentations/blind-2015/web-for-blind.pdf) Aurelijus Banelis
