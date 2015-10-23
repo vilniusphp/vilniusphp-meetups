@@ -12,6 +12,7 @@ Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 " > $OUTPUT
 
 for f in `find */README.md | sort -r`; do
-    cat $f | grep -v "^ *$" >> $OUTPUT
+    path=`echo $f | grep -Eo '^[^/]+'`
+    cat $f | grep -v "^ *$" | sed -r "s/(\[.*\])\(([^http].*)\)/\1\(${path}\/\2\)/" >> $OUTPUT
     printf "\n" >> $OUTPUT
 done
