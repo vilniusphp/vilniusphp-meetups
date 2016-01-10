@@ -6,7 +6,16 @@ Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 ## Meetup 0x26 (2016-01-07)
 * "[Multi-Model Databases](http://aurelijus.banelis.lt/prezentations/multimodel-databases-2016/Multimodel-databases.pdf)" Aurelijus Banelis
 * "Digi LAMP. Apie infrastruktūrą: kaip viskas atrodo ir sukasi, tools'ai, kodas ir požiūris į kodą, kai jį reikia priziūreti N metų, įmonės workflow" Oleg Nikolajev
-* "Viskas blogai. Reikia perrašyti iš naujo. Kada, kodėl ir kaip" Justas Butkus
+* "[Viskas blogai. Reikia perrašyti iš naujo. Kada, kodėl ir kaip](2016-01-07/Viskas-blogai.pdf)" Justas Butkus
+
+## Meetup 0x25 VilniusPHP 3-iasis gimtadienis (2015-12-03)
+* ["Kodėl aš skaitau pranešimus"](http://kurakin.info/files/vilniusphp/VilniusPHP%203rd%20BD%2016-9.pdf) Sergej Kurakin
+* "Enemies of Agile Design" Osvaldas Grigas
+* "Fail" Greg Young
+
+## Meetup 0x24
+* "Baby Steps to Domain-Driven Design" Žilvinas Kuusas
+* "Measure Everything, Not Anything" Mantas Klasavicius
 
 ## Meetup 0x23 CodeWeek.eu edition (2015-10-15)
 * ["From zero to hero"](http://slides.gediminasm.org/ktu-karjeros-dienos/) Gediminas Morkevičius
