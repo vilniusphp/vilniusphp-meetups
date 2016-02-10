@@ -3,6 +3,12 @@
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
 
+## Meetup 0x27 (2016-02-04)
+* "[Inverting client-server architecture](http://aurelijus.banelis.lt/prezentations/client-server-2016/Inverting-client-server.pdf)" Aurelijus Banelis
+* "Daugiau nei Darbas – Programuotojo Amatas" Mažvydas Skuodas
+* _Lighting talks_:
+ * "Mano mėgstami komandinės eilutės įrankiai" Žilvinas Kusas
+
 ## Meetup 0x26 (2016-01-07)
 * "[Multi-Model Databases](http://aurelijus.banelis.lt/prezentations/multimodel-databases-2016/Multimodel-databases.pdf)" Aurelijus Banelis
 * "Digi LAMP. Apie infrastruktūrą: kaip viskas atrodo ir sukasi, tools'ai, kodas ir požiūris į kodą, kai jį reikia priziūreti N metų, įmonės workflow" Oleg Nikolajev
