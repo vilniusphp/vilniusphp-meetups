@@ -1,0 +1,25 @@
+[user]
+	name = xxx xxx
+	email = xxx@xxx.xxx
+[core]
+	excludesfile = ~/.gitignore_global
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /opt/homebrew-cask/Caskroom/sourcetree/2.1/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[alias]
+    ci = commit
+    c = checkout
+    p = pull --rebase
+    lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+    ll = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --numstat
+    abbr = "!sh -c 'git rev-list master | grep ^$1 | while read commit; do git --no-pager log -n1 --pretty=format:\"%h %ci %s %d%n\" $commit; done' -"
+    st = "!sh -c 'open -a SourceTree .'"
+    s = show --name-only
+    find = "!f() { git grep "$1" $(git rev-list --all); }; f"
+    push-all = "!sh -c 'git remote | xargs -L1 git push --all'"
+    php-lint = "!sh -c 'status | grep .php | awk '{ print $2}' | xargs -n 1 php -l'"
+[push]
+	default = simple

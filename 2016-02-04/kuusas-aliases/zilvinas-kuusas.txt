@@ -1,0 +1,27 @@
+                                                                                                         
+                                                                                                         
+EEEEEEEEEEEEEEEEEEEEEE                          tttt            iiii                                     
+E::::::::::::::::::::E                       ttt:::t           i::::i                                    
+E::::::::::::::::::::E                       t:::::t            iiii                                     
+EE::::::EEEEEEEEE::::E                       t:::::t                                                     
+  E:::::E       EEEEEE    ssssssssss   ttttttt:::::ttttttt    iiiiiiinnnn  nnnnnnnn      aaaaaaaaaaaaa   
+  E:::::E               ss::::::::::s  t:::::::::::::::::t    i:::::in:::nn::::::::nn    a::::::::::::a  
+  E::::::EEEEEEEEEE   ss:::::::::::::s t:::::::::::::::::t     i::::in::::::::::::::nn   aaaaaaaaa:::::a 
+  E:::::::::::::::E   s::::::ssss:::::stttttt:::::::tttttt     i::::inn:::::::::::::::n           a::::a 
+  E:::::::::::::::E    s:::::s  ssssss       t:::::t           i::::i  n:::::nnnn:::::n    aaaaaaa:::::a 
+  E::::::EEEEEEEEEE      s::::::s            t:::::t           i::::i  n::::n    n::::n  aa::::::::::::a 
+  E:::::E                   s::::::s         t:::::t           i::::i  n::::n    n::::n a::::aaaa::::::a 
+  E:::::E       EEEEEEssssss   s:::::s       t:::::t    tttttt i::::i  n::::n    n::::na::::a    a:::::a 
+EE::::::EEEEEEEE:::::Es:::::ssss::::::s      t::::::tttt:::::ti::::::i n::::n    n::::na::::a    a:::::a 
+E::::::::::::::::::::Es::::::::::::::s       tt::::::::::::::ti::::::i n::::n    n::::na:::::aaaa::::::a 
+E::::::::::::::::::::E s:::::::::::ss          tt:::::::::::tti::::::i n::::n    n::::n a::::::::::aa:::a
+EEEEEEEEEEEEEEEEEEEEEE  sssssssssss              ttttttttttt  iiiiiiii nnnnnn    nnnnnn  aaaaaaaaaa  aaaa
+                                                                                                         
+                                                                                                         
+              
+Žilvinas Kuusas                                                                                         
+Lead developer
+twitter: @kuusas
+github: kuusas
+
+

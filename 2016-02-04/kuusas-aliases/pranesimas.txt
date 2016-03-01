@@ -1,0 +1,39 @@
+Žilvinas Kuusas
+lead developer @ Estina
+twitter: @kuusas
+github: kuusas
+
+Terminal: 
+- iTerm2
+
+Z shell (zsh):
+- On top of sh (Bourne shell)
+- shell
+  - compatible with bash
+  - cli completion
+  - command history
+  - where
+  - extensions/modules
+- oh-my-zsh
+ - plugins (git, symfony2, osx, sublime, web-search, sudo, lol)
+ - themes
+
+tools: 
+- aliases
+- functions
+- scripts
+- git aliases
+- autojump
+- todo-txt
+- tig
+- htop
+- grep
+- wc
+- less
+- tail
+- vi(m)
+- ps
+- lsof
+- curl
+- wget
+
