@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body { font-family: 'Droid Serif'; }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+      }
+      h1 {
+        font-size: 2em;
+        color: red;
+      }
+      .huge {
+        font-size: 360px;
+      }
+      .big {
+        font-size: 180px;
+      }
+      .heading {
+        font-size: 80px;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+      /* Two-column layout */
+      .left-column {
+        color: #777;
+        width: 25%;
+        height: 92%;
+        float: left;
+      }
+        .left-column h1:last-of-type {
+          color: #000;
+        }
+      .right-column {
+        width: 70%;
+        margin-left: 5%;
+        float: right;
+        padding-top: 1em;
+        font-size: 1.5em;
+        line-height: 2em;
+      }
+      .remark-slide-content p,
+      .remark-slide-content li,
+      .remark-slide-content code {
+        font-size: 1.5em;
+        line-height: 2em;
+      }
+    </style>
+  </head>
+  <body>
+    <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create({
+          sourceUrl: 'presentation.md'
+        });
+    </script>
+  </body>
+</html>
