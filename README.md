@@ -7,7 +7,7 @@ Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 * "[Inverting client-server architecture](http://aurelijus.banelis.lt/prezentations/client-server-2016/Inverting-client-server.pdf)" ([Video](https://youtu.be/Toi-okgyl_c)) Aurelijus Banelis
 * "[Daugiau nei Darbas – Programuotojo Amatas](https://youtu.be/2CelIu8S2fE)" Mažvydas Skuodas
 * _Lighting talks_:
- * "Mano mėgstami komandinės eilutės įrankiai" Žilvinas Kusas
+ * "Mano mėgstami komandinės eilutės įrankiai" Žilvinas Kuusas
 
 ## Meetup 0x26 (2016-01-07)
 * "[Multi-Model Databases](http://aurelijus.banelis.lt/prezentations/multimodel-databases-2016/Multimodel-databases.pdf)" Aurelijus Banelis
@@ -54,7 +54,7 @@ Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 * "Mitigating the risk of fraudulent credit card payments" Vaidas Jusevičius
 * [From PHP to Machine Code](https://speakerdeck.com/juokaz/from-php-to-machine-code-vilnius-php-2015) Juozas Kaziukėnas
 * _Lighting talks_:
- * "VilniuPHP community" Žilvinas Kusas
+ * "VilniuPHP community" Žilvinas Kuusas
  * [Freelancing Platforms](http://www.slideshare.net/vidmantask/freelancing-platforms-diff) Vidmantas Kabošis
  * [JSON-LD](http://aurelijus.banelis.lt/prezentations/jsonld/jsonld-2015.pdf) Aurelijus Banelis
  * "Keynotes from BuildStuff'14" Marijus Kilmanas
