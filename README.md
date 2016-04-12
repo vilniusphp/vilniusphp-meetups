@@ -3,11 +3,22 @@
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
 
+## Meetup 0x29: fuckup night (2016-04-07)
+* "[Things I fucked up](2016-04-07/kuusas-fucked-up-full)" Žilvinas Kuusas
+* "[Things I fucked up](http://slides.gediminasm.org/things-i-fucked-up)" Gediminas Morkevičius
+* "[Things I fucked up](2016-04-07/VilniusPHP-fuckup.pdf)" Darius Leskauskas
+
+## Meetup 0x28 (2016-03-03)
+* "[Names Are Supposed To Be Hard](http://www.slideshare.net/ogrigas/names-59520286)" Osvaldas Grigas
+* "Elasticsearch scoring" Povilas Sušinskas
+  * _Lighting talks_:
+ * "[Sometimes I fuck-up things...](2016-03-03/kuusas-fucked-up)" Žilvinas Kuusas
+
 ## Meetup 0x27 (2016-02-04)
 * "[Inverting client-server architecture](http://aurelijus.banelis.lt/prezentations/client-server-2016/Inverting-client-server.pdf)" ([Video](https://youtu.be/Toi-okgyl_c)) Aurelijus Banelis
 * "[Daugiau nei Darbas – Programuotojo Amatas](https://youtu.be/2CelIu8S2fE)" Mažvydas Skuodas
 * _Lighting talks_:
- * "Mano mėgstami komandinės eilutės įrankiai" Žilvinas Kuusas
+ * "[Mano mėgstami komandinės eilutės įrankiai](2016-02-04/kuusas-aliases)" Žilvinas Kuusas
 
 ## Meetup 0x26 (2016-01-07)
 * "[Multi-Model Databases](http://aurelijus.banelis.lt/prezentations/multimodel-databases-2016/Multimodel-databases.pdf)" Aurelijus Banelis
