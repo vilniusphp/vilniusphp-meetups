@@ -7,6 +7,14 @@ Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 * ["Managing Technical Debt"](2016-08-04/managing_technical_debt-vilniusphp.pdf) Povilas Balzaravičius
 * ["HTTP/2 Out Of The Box"](http://kurakin.info/files/vilniusphp/HTTP_2_Out_Of_The_Box_V2.pdf) Sergej Kurakin
 
+## Meetup 0x2C (2016-07-07)
+* "Lava layer antipattern" Gintaras Sakalauskas
+* "Reverse Image Search at Scale" Tautrimas Pajarskas
+
+## Meetup 0x2B (2016-06-02)
+* "Does GoogleBot Scroll? Creating SEO-friendly Apps with JavaScript (and without Node)" Adam Terlson
+* "Rewriting your application without killing the business" Lars Strojny
+
 ## Meetup 0x2A (2016-05-05)
 * "Engineering the unknown" Mindaugas Barysas
 * ["LXC - Įrankis eksperimentams"](http://kurakin.info/files/vilniusphp/LXC_4_VilniusPHP.pdf) Sergej Kurakin
