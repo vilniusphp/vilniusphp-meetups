@@ -3,6 +3,14 @@
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
 
+## Meetup 0x2D (2016-08-04)
+* ["Managing Technical Debt"](2016-08-04/managing_technical_debt-vilniusphp.pdf) Povilas Balzaravičius
+* ["HTTP/2 Out Of The Box"](http://kurakin.info/files/vilniusphp/HTTP_2_Out_Of_The_Box_V2.pdf) Sergej Kurakin
+
+## Meetup 0x2A (2016-05-05)
+* "Engineering the unknown" Mindaugas Barysas
+* ["LXC - Įrankis eksperimentams"](http://kurakin.info/files/vilniusphp/LXC_4_VilniusPHP.pdf) Sergej Kurakin
+
 ## Meetup 0x29: fuckup night (2016-04-07)
 * "[Things I fucked up](2016-04-07/kuusas-fucked-up-full)" Žilvinas Kuusas
 * "[Things I fucked up](http://slides.gediminasm.org/things-i-fucked-up)" Gediminas Morkevičius
