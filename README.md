@@ -3,6 +3,12 @@
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
 
+## Vilnius PHP ❤ Vilnius JS (2016-10-06)
+* "Procedural programming FTW („yra kieta“)" Marius Balčytis ([Slides](https://maba.lt/presentations/procedural-programming-ftw/index.html), [Video](https://youtu.be/XupVEy4Wlr4))
+* "TypeScript, Dart, CoffeeScript and JavaScript Comparison" Haim Michael
+* "Future of O/S" Avishai Ish-Shalom
+* "What Makes a Good Developer?" Christian Zacharias
+
 ## Meetup 0x2E (2016-09-01)
 * "Docker on VDS" Aurelijus Banelis ([Slides](https://aurelijus.banelis.lt/prezentations/docker-on-vds/Docker-on-VDS-v3.pdf), [Video](https://youtu.be/dIgaQ4mgFYg)) 
 * "To Comment Or Not To Comment" Povilas Sušinskas
