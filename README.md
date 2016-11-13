@@ -3,6 +3,13 @@
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
 
+## Vilnius PHP 0x30 (2016-11-03)
+* "PHP 7 and Beyond" Marco Rosello ([Video](https://youtu.be/k85ZwZd17wM?list=PLxBRkBr-uobt0c7Pun7MR-Dc4hOU43wIo))
+* "What you should know about databases" Gediminas Morkevičius ([Video](https://youtu.be/WlEfEGjaA0k?list=PLxBRkBr-uobt0c7Pun7MR-Dc4hOU43wIo))
+* "Iš programuotojo į verslininką" Paulius Rimavičius ([Video](https://youtu.be/8jwJkeqMdyw?list=PLxBRkBr-uobt0c7Pun7MR-Dc4hOU43wIo))
+* _Lighting talks_:
+  * "Metodas SQL migracijoms" Marius Balčytis ([Video](https://youtu.be/OPqzpERU7po?list=PLxBRkBr-uobt0c7Pun7MR-Dc4hOU43wIo))
+
 ## Vilnius PHP ❤ Vilnius JS (2016-10-06)
 * "Procedural programming FTW („yra kieta“)" Marius Balčytis ([Slides](https://maba.lt/presentations/procedural-programming-ftw/index.html), [Video](https://youtu.be/XupVEy4Wlr4))
 * "TypeScript, Dart, CoffeeScript and JavaScript Comparison" Haim Michael ([Slides](2016-10-06/vilnius_js_ts_dart_20161007.pdf), [Video](https://www.youtube.com/watch?v=5pLQLaY-fYY))
