@@ -1,6 +1,6 @@
 ## Vilnius PHP 0x30 (2016-11-03)
-* "PHP 7 and Beyond" Marco Rosello ([Video](https://youtu.be/k85ZwZd17wM?list=PLxBRkBr-uobt0c7Pun7MR-Dc4hOU43wIo))
-* "What you should know about databases" Gediminas Morkevičius ([Video](https://youtu.be/WlEfEGjaA0k?list=PLxBRkBr-uobt0c7Pun7MR-Dc4hOU43wIo))
-* "Iš programuotojo į verslininką" Paulius Rimavičius ([Video](https://youtu.be/8jwJkeqMdyw?list=PLxBRkBr-uobt0c7Pun7MR-Dc4hOU43wIo))
+* "PHP 7 and Beyond" Marco Rosello ([Video](https://youtu.be/TZFsZbZmhts?list=PLQtCOu9Q2pwTM_qhDtjjLeFnA8B7DwImn))
+* "What you should know about databases" Gediminas Morkevičius ([Video](https://youtu.be/CzGBi2qZ-8g?list=PLQtCOu9Q2pwTM_qhDtjjLeFnA8B7DwImn))
+* "Iš programuotojo į verslininką" Paulius Rimavičius ([Video](https://youtu.be/H-llrEbFH-0?list=PLQtCOu9Q2pwTM_qhDtjjLeFnA8B7DwImn))
 * _Lighting talks_:
-  * "Metodas SQL migracijoms" Marius Balčytis ([Video](https://youtu.be/OPqzpERU7po?list=PLxBRkBr-uobt0c7Pun7MR-Dc4hOU43wIo))
+  * "Metodas SQL migracijoms" Marius Balčytis ([Video](https://youtu.be/RHzXX99YGEg?list=PLQtCOu9Q2pwTM_qhDtjjLeFnA8B7DwImn))
