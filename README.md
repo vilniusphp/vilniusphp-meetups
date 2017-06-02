@@ -3,6 +3,21 @@
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
 
+## Vilnius PHP 0x37 (2017-06-01)
+* "Headless browsers and friends" Aurelijus Banelis ([Slides](https://aurelijus.banelis.lt/prezentations/headless-browsers-2017/Headless-browsers-v1.pdf))
+* “tmux” ir “GNU Screen” Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/tmux_and_GNU_Screen.pdf))
+* "(D?)DoS" Marijus Kilmanas
+
+## Vilnius PHP 0x36 (2017-05-04)
+* "Application Autoscaling on AWS: HomeToGo case" Audrius Bugas
+* "Come to the TypeScript - we have type hinting!" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/TypeScript_May_the_4th.pdf))
+* "Pre-merge code reviews" Žilvinas Kuusas 
+
+## Vilnius PHP 0x35 (2017-04-06)
+* "Neural networks with PHP" Darius Leskauskas
+* "TICK stack'o K - Kapacitor" Marijus Briedis
+* "Supervisor" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/Supervisor_A_Process_Control_System.pdf))
+
 ## Vilnius PHP 0x33 (2017-02-02)
 * "Slim PHP" Justinas Rakašis ([Video](https://youtu.be/r2ZCJ3usLXg?list=PLQtCOu9Q2pwSzw8Qfbl6h5QgI8sX7o4hn))
 * "Security" Marius Grigaitis ([Slides](https://docs.google.com/presentation/d/1c2skaLfVwtil9AlEsBKkLTpjoDeavguWfXli9UEaZt0/edit), [Video](https://youtu.be/M27BeLxAWWk?list=PLQtCOu9Q2pwSzw8Qfbl6h5QgI8sX7o4hn))
