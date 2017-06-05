@@ -9,9 +9,9 @@ Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 * "(D?)DoS" Marijus Kilmanas ([Video](https://youtu.be/QJy-z_gc5yU?list=PLQtCOu9Q2pwTIRe9RLYvgnDC5_V1bRscL))
 
 ## Vilnius PHP 0x36 (2017-05-04)
-* "Application Autoscaling on AWS: HomeToGo case" Audrius Bugas
-* "Come to the TypeScript - we have type hinting!" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/TypeScript_May_the_4th.pdf))
-* "Pre-merge code reviews" Žilvinas Kuusas 
+* "Application Autoscaling on AWS: HomeToGo case" Audrius Bugas ([Video](https://youtu.be/ET3CTaZuabM?list=PLQtCOu9Q2pwRJvWWuTXSLNcsSBHx12gel))
+* "Come to the TypeScript - we have type hinting!" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/TypeScript_May_the_4th.pdf), [Video](https://youtu.be/3ezltlGp-C0?list=PLQtCOu9Q2pwRJvWWuTXSLNcsSBHx12gel))
+* "Pre-merge code reviews" Žilvinas Kuusas  ([Video](https://youtu.be/ZRLRGHOUNdU?list=PLQtCOu9Q2pwRJvWWuTXSLNcsSBHx12gel))
 
 ## Vilnius PHP 0x35 (2017-04-06)
 * "Neural networks with PHP" Darius Leskauskas
