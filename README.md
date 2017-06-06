@@ -14,16 +14,16 @@ Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 * "Pre-merge code reviews" Žilvinas Kuusas  ([Video](https://youtu.be/ZRLRGHOUNdU?list=PLQtCOu9Q2pwRJvWWuTXSLNcsSBHx12gel))
 
 ## Vilnius PHP 0x35 (2017-04-06)
-* "Neural networks with PHP" Darius Leskauskas
-* "TICK stack'o K - Kapacitor" Marijus Briedis
-* "Supervisor" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/Supervisor_A_Process_Control_System.pdf))
+* "Neural networks with PHP" Darius Leskauskas ([Video](https://youtu.be/dBV1C6tQWAU?list=PLQtCOu9Q2pwRXJqIkuNP4T_kV5yI0zDn-))
+* "TICK stack'o K - Kapacitor" Marijus Briedis ([Video](https://youtu.be/oBsWTgfyYbo?list=PLQtCOu9Q2pwRXJqIkuNP4T_kV5yI0zDn-))
+* "Supervisor" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/Supervisor_A_Process_Control_System.pdf), [Video](https://youtu.be/YR0QrzKnV6k?list=PLQtCOu9Q2pwRXJqIkuNP4T_kV5yI0zDn-))
 
 ## Vilnius PHP 0x33 (2017-02-02)
 * "Slim PHP" Justinas Rakašis ([Video](https://youtu.be/r2ZCJ3usLXg?list=PLQtCOu9Q2pwSzw8Qfbl6h5QgI8sX7o4hn))
 * "Security" Marius Grigaitis ([Slides](https://docs.google.com/presentation/d/1c2skaLfVwtil9AlEsBKkLTpjoDeavguWfXli9UEaZt0/edit), [Video](https://youtu.be/M27BeLxAWWk?list=PLQtCOu9Q2pwSzw8Qfbl6h5QgI8sX7o4hn))
 
 ## Vilnius PHP 0x32 (2017-01-05)
-* "Mutation testing" Aurelijus Banelis ([Video](https://youtu.be/4xJKo6krneY?list=PLQtCOu9Q2pwQ0FPDerdLW2KlWFvhkSlEv), [Slides](http://aurelijus.banelis.lt/prezentations/mutation-testing-2017/mutation-testing-v2.pdf))
+* "Mutation testing" Aurelijus Banelis ([Slides](http://aurelijus.banelis.lt/prezentations/mutation-testing-2017/mutation-testing-v2.pdf), [Video](https://youtu.be/4xJKo6krneY?list=PLQtCOu9Q2pwQ0FPDerdLW2KlWFvhkSlEv))
 * "Feature Toggle: HomeToGo Use Case" Audrius Bugas ([Video](https://youtu.be/bGy4aa-OqHg?list=PLQtCOu9Q2pwQ0FPDerdLW2KlWFvhkSlEv))
 * _Lighting talks_:
   * "Sudėtingi-paprasti sprendimai: pragmatiškumas ir absurdas" Žilvinas Kuusas ([Video](https://youtu.be/KxEO92FsQ4o?list=PLQtCOu9Q2pwQ0FPDerdLW2KlWFvhkSlEv))
