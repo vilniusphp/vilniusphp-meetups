@@ -2,8 +2,14 @@
 
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
-## Vilnius PHP 0x3A (2017-09-07)
-* "Daugiakalbystė kaip projekto stilius" Justas Butkus ([Slides](2017-09-07/Justas_Butkus-Daugiakalbyste_kaip_projekto_stilius.pdf))
+
+## VilniusPHP 0x3A (2017-09-07)
+* "MySQL InnoDB Cluster" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/MySQL_InnoDB_Cluster.pdf))
+* "Daugiakalbystė kaip projekto stilius" Justas Butkus ([Slides](https://github.com/vilniusphp/vilniusphp-meetups/raw/master/2017-09-07/Justas_Butkus-Daugiakalbyste_kaip_projekto_stilius.pdf))
+
+## VilniusPHP 0x39 (2017-08-03)
+* "MySQL JSON" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/MySQL_JSON.pdf))
+* "JavaScript injection - XSS" Kęstutis Parchutikas
 
 ## Vilnius PHP 0x38 (2017-07-13)
 * "Linux High Availability Cluster - Pacemaker ir Corosync" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/Linux_Cluster.pdf))
