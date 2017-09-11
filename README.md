@@ -2,6 +2,8 @@
 
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
+## Vilnius PHP 0x3A (2017-09-07)
+* "Daugiakalbystė kaip projekto stilius" Justas Butkus ([Slides](2017-09-07/Justas_Butkus-Daugiakalbyste_kaip_projekto_stilius.pdf))
 
 ## Vilnius PHP 0x38 (2017-07-13)
 * "Linux High Availability Cluster - Pacemaker ir Corosync" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/Linux_Cluster.pdf))
