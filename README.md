@@ -3,6 +3,15 @@
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
 
+## VilniusPHP 0x3D (2017-12-05)
+* "Real-time metrics with netdata" Aurelijus Banelis ([Slides](https://aurelijus.banelis.lt/prezentations/vilniusphp-2017/real-time-metrics-with-netdata.pdf))
+* "Nematomas programavimas. Mailerlite istorija" Eimantas Norkūnas
+
+## VilniusPHP 0x3C (2017-11-09)
+* "Semantinis versijavimas ir kontraktai programiniame kode" Marius Balčytis
+* "Event’ų ir observer pattern’o naudojimas" Daumantas Urbanavičius
+* "Continuous Delivery: praktika ir nauda" Žilvinas Kuusas 
+
 ## VilniusPHP 0x3B (2017-10-05)
 * "NGINX Unit" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/NGINX_Unit.pdf))
 * "Niekuo negalima pasitikėti" Justas Butkus
