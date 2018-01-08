@@ -35,7 +35,7 @@ Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 * "Didelių veikiančių sistemų migravimo strategijos: kaip išbristi iš legacy kodo?" Marius Balčytis ([Slides](https://maba.lt/presentations/migration-strategies/index.html), [Code](https://github.com/mariusbalcytis/wordpress-symfony-migration-demo))
 
 ## VilniusPHP 0x3E (2018-01-04)
-* "Palaikykite mano gėrimą (red. pastaba: nealkoholinį)" Justas Butkus
+* "Palaikykite mano gėrimą" Justas Butkus ([Slides](https://github.com/vilniusphp/vilniusphp-meetups/raw/master/2018-01-04/Justas_Butkus-Palaikykite_mano_gerima.pdf))
 * "Dead Letters (mirę pranešimai)" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/Sergej_Kurakin_Dead-Letters.pdf))
 
 ## VilniusPHP 0x3D (2017-12-05)
