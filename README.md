@@ -2,13 +2,27 @@
 
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
+## VilniusPHP 0x41 (2018-04-05)
+* "CSS istorija ir modernus CSS" Rimantas Liubertas
+* "Real-time PHP pasaulyje: kaip pranešti naršyklei, kad kažkas įvyko?" Marius Balčytis ([Slides](https://maba.lt/presentations/vilniusphp-pusher/index.html), [Code](https://github.com/mariusbalcytis/real-time-php-sandbox))
+
+## VilniusPHP 0x40 (2018-03-01)
+* "Automated cryptocurrency trading" Žilvinas Kuusas
+
+## VilniusPHP 0x3F (2018-02-01)
+* "Nepaprastas saugumas" Justas Butkus
+* "Didelių veikiančių sistemų migravimo strategijos: kaip išbristi iš legacy kodo?" Marius Balčytis ([Slides](https://maba.lt/presentations/migration-strategies/index.html), [Code](https://github.com/mariusbalcytis/wordpress-symfony-migration-demo))
+
+## VilniusPHP 0x3E (2018-01-04)
+* "Palaikykite mano gėrimą (red. pastaba: nealkoholinį)" Justas Butkus
+* "Dead Letters (mirę pranešimai)" Sergej Kurakin
 
 ## VilniusPHP 0x3D (2017-12-05)
 * "Real-time metrics with netdata" Aurelijus Banelis ([Slides](https://aurelijus.banelis.lt/prezentations/vilniusphp-2017/real-time-metrics-with-netdata.pdf))
 * "Nematomas programavimas. Mailerlite istorija" Eimantas Norkūnas
 
 ## VilniusPHP 0x3C (2017-11-09)
-* "Semantinis versijavimas ir kontraktai programiniame kode" Marius Balčytis
+* "Semantinis versijavimas ir kontraktai programiniame kode" Marius Balčytis ([Slides](https://maba.lt/presentations/semantic-versioning/index.html))
 * "Event’ų ir observer pattern’o naudojimas" Daumantas Urbanavičius
 * "Continuous Delivery: praktika ir nauda" Žilvinas Kuusas 
 
@@ -26,7 +40,7 @@ Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
 ## Vilnius PHP 0x38 (2017-07-13)
 * "Linux High Availability Cluster - Pacemaker ir Corosync" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/Linux_Cluster.pdf))
-* "Backward compatibility: deploying without downtime" Marius Balčytis ([Slides](http://maba.lt/presentations/backward-compatibility/index.html), [Code](https://github.com/mariusbalcytis/deployment-playground))
+* "Backward compatibility: deploying without downtime" Marius Balčytis ([Slides](https://maba.lt/presentations/backward-compatibility/index.html), [Code](https://github.com/mariusbalcytis/deployment-playground))
 * "Rest API 101" Arnas Petruškevičius
 ([Slides](https://github.com/vilniusphp/vilniusphp-meetups/raw/master/2017-07-13/Rest_API_101.pdf))
 
@@ -64,7 +78,7 @@ Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 * "What you should know about databases" Gediminas Morkevičius ([Slides](http://slides.gediminasm.org/datadog-dbs/index.html), [Video](https://youtu.be/CzGBi2qZ-8g?list=PLQtCOu9Q2pwTM_qhDtjjLeFnA8B7DwImn))
 * "Iš programuotojo į verslininką" Paulius Rimavičius ([Video](https://youtu.be/H-llrEbFH-0?list=PLQtCOu9Q2pwTM_qhDtjjLeFnA8B7DwImn))
 * _Lighting talks_:
-  * "Metodas SQL migracijoms (SQL Inception)" Marius Balčytis ([Slides](http://maba.lt/presentations/sql-inception/index.html), [Video](https://youtu.be/RHzXX99YGEg?list=PLQtCOu9Q2pwTM_qhDtjjLeFnA8B7DwImn))
+  * "Metodas SQL migracijoms (SQL Inception)" Marius Balčytis ([Slides](https://maba.lt/presentations/sql-inception/index.html), [Video](https://youtu.be/RHzXX99YGEg?list=PLQtCOu9Q2pwTM_qhDtjjLeFnA8B7DwImn))
 
 ## Vilnius PHP ❤ Vilnius JS (2016-10-06)
 * "Procedural programming FTW („yra kieta“)" Marius Balčytis ([Slides](https://maba.lt/presentations/procedural-programming-ftw/index.html), [Video](https://youtu.be/Z1ZxPc7g8jI?list=PLQtCOu9Q2pwR06xxGUe1hjBZaM51B8wzy))
