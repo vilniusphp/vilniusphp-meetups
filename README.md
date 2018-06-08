@@ -2,9 +2,20 @@
 
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
+
+## VilniusPHP 0x42 (2018-05-03)
+* "API Platform" Darius Leskauskas 
+* "Ansible: infrastructure automation for everyone" Žilvinas Kuusas 
+* _Lighting talks_:
+  * "How to run PHP on AWS Lambda" Sam Anthony
+  * "Mocks, stubs and prophesies" Marius Balčytis
+  * "How we scale MySQL" Arnas Petruškevičius
+
 ## VilniusPHP 0x41 (2018-04-05)
 * "CSS istorija ir modernus CSS" Rimantas Liubertas
 * "Real-time PHP pasaulyje: kaip pranešti naršyklei, kad kažkas įvyko?" Marius Balčytis ([Slides](https://maba.lt/presentations/vilniusphp-pusher/index.html), [Code](https://github.com/mariusbalcytis/real-time-php-sandbox))
+* _Lighting talks_:
+  * "Websocket" Vidmantas Norkus 
 
 ## VilniusPHP 0x40 (2018-03-01)
 * "Automated cryptocurrency trading" Žilvinas Kuusas
