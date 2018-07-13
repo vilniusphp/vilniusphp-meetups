@@ -3,6 +3,12 @@
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
 
+## VilniusPHP 0x44 (2018-07-12)
+* "Atomic Commits" Sergej Kurakin
+* "Response Preconditions" Lucas Michot
+* _Lighting talks_:
+  * "Lightweight Architecture Decision Records" Aurelijus Banelis ([Slides](https://aurelijus.banelis.lt/prezentations/vilniusphp-2018/ADR.pdf))
+
 ## VilniusPHP 0x43 (2018-06-07)
 * "PWA with Symfony 4" Aurelijus Banelis ([Slides](https://aurelijus.banelis.lt/prezentations/pwa-symfony-2018/PWA-with-Symfony-4-v1.pdf), [Video](https://youtu.be/rxHrakIMTj4))
 * "When PHP doesn’t fit: introduction to Erlang world" Šarūnas Bartusevičius 
