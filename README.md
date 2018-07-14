@@ -36,7 +36,7 @@ Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
 ## VilniusPHP 0x3E (2018-01-04)
 * "Palaikykite mano gėrimą (red. pastaba: nealkoholinį)" Justas Butkus
-* "Dead Letters (mirę pranešimai)" Sergej Kurakin
+* "Dead Letters (mirę pranešimai)" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/Sergej_Kurakin_Dead-Letters.pdf))
 
 ## VilniusPHP 0x3D (2017-12-05)
 * "Real-time metrics with netdata" Aurelijus Banelis ([Slides](https://aurelijus.banelis.lt/prezentations/vilniusphp-2017/real-time-metrics-with-netdata.pdf))
