@@ -4,8 +4,8 @@ Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
 
 ## VilniusPHP 0x44 (2018-07-12)
-* "Atomic Commits" Sergej Kurakin
-* "Response Preconditions" Lucas Michot
+* "Atomic Commits" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/Sergej_Kurakin_Atomic_Commits.pdf))
+* "Response Preconditions" Lucas Michot ([Slides](2018-07-12/Lucas_Michot_Request_Precondition.pdf))
 * _Lighting talks_:
   * "Lightweight Architecture Decision Records" Aurelijus Banelis ([Slides](https://aurelijus.banelis.lt/prezentations/vilniusphp-2018/ADR.pdf))
 
@@ -36,7 +36,7 @@ Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
 ## VilniusPHP 0x3E (2018-01-04)
 * "Palaikykite mano gėrimą (red. pastaba: nealkoholinį)" Justas Butkus
-* "Dead Letters (mirę pranešimai)" Sergej Kurakin
+* "Dead Letters (mirę pranešimai)" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/Sergej_Kurakin_Dead-Letters.pdf))
 
 ## VilniusPHP 0x3D (2017-12-05)
 * "Real-time metrics with netdata" Aurelijus Banelis ([Slides](https://aurelijus.banelis.lt/prezentations/vilniusphp-2017/real-time-metrics-with-netdata.pdf))
