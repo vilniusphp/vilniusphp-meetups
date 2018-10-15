@@ -3,6 +3,16 @@
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
 
+## VilniusPHP 0x47 (2018-10-04)
+* "Kubernetes - From Beginner to Beginners" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/Kubernetes_From_Beginner_to_Beginners.pdf))
+* "PHP - From code to Kubernetes" Daniel Oliveira ([Example](https://github.com/danieloliveira079/php-k8s))
+* "Migrating Website to React. Feature by Feature. No Downtime" Irmantas Zenkus
+
+## VilniusPHP 0x46 (2018-09-06)
+* "Kaip (iš)likti darbe (like forever)" Kestutis Jasiulevičius
+* "Reducing on-call stress" Žilvinas Kuusas
+* "PSR: standardising HTTP" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/Sergej_Kurakin_PSR_standardising_HTTP.pdf))
+
 ## VilniusPHP 0x44 (2018-07-12)
 * "Atomic Commits" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/Sergej_Kurakin_Atomic_Commits.pdf))
 * "Response Preconditions" Lucas Michot ([Slides](2018-07-12/Lucas_Michot_Request_Precondition.pdf))
