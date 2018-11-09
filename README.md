@@ -3,6 +3,10 @@
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
 
+## VilniusPHP 0x48 (2018-11-08)
+* "Decorator and Chain of Responsibility Patterns" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/Decorator_and_Chain_of_Responsibility.pdf))
+* "Dockerizing PHP apps" Aurelijus Banelis
+
 ## VilniusPHP 0x47 (2018-10-04)
 * "Kubernetes - From Beginner to Beginners" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/Kubernetes_From_Beginner_to_Beginners.pdf))
 * "PHP - From code to Kubernetes" Daniel Oliveira ([Example](https://github.com/danieloliveira079/php-k8s))
