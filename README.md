@@ -3,6 +3,11 @@
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
 
+## VilniusPHP 0x4C (2019-03-07)
+* "Robots?! What do they do on your website?" Ramūnas Skarbalius
+* "PHPUnit vs. phpSpec" Marco Rosello & Žilvinas Kuusas
+* ["Ar reikia testuoti privačius metodus?"](2019-03-07/ar_reikia_testuoti_privacius_metodus.pdf) Povilas Balzaravičius ([Slides](https://kurakin.info/files/vilniusphp/Decorator_and_Chain_of_Responsibility.pdf))
+
 ## VilniusPHP 0x48 (2018-11-08)
 * "Decorator and Chain of Responsibility Patterns" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/Decorator_and_Chain_of_Responsibility.pdf))
 * "Dockerizing PHP apps" Aurelijus Banelis ([Slides](https://aurelijus.banelis.lt/prezentations/vilniusphp-2018/Dockerizing-PHP-apps-v2.pdf), [Video](https://youtu.be/mOEhaKvkQ3k))
