@@ -3,8 +3,13 @@
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
 
-## VilniusPHP 0x4D (2019-04-04)
-* ["Programinių sąsajų greitinimas"](2019-04-04/Justas_Butkus-Programiniu-sasaju-greitinimas.pdf) Justas Butkus
+## VilniusPHP 0x4E (2019-05-09)
+* "Docker. Tips, Tricks and Best Practices. E1." Marius Žalinauskas
+* "Metrikos" Sergej Kurakin ([Slides](https://kurakin.info/files/vilniusphp/Metrics.pdf))
+
+## VilniusPHP 0x4E (2019-04-04)
+* "Programinių sąsajų greitinimas" Justas Butkus ([Slides](2019-04-04/Justas_Butkus-Programiniu-sasaju-greitinimas.pdf))
+*  "Blockchain in PHP. Yes, we can!" Eligijus Stugys
 
 ## VilniusPHP 0x4C (2019-03-07)
 * "Robots?! What do they do on your website?" Ramūnas Skarbalius
