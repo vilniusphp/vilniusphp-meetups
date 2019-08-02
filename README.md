@@ -2,8 +2,10 @@
 
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
+
 ## VilniusPHP 0x51 (2019-08-01)
 * "TypeScript: Rejected at First But Loved Afterwards" Martynas Girdvainis ([Slides](https://docs.google.com/presentation/d/1g3CwNqZcZsBItmYjZihfRTB4bnZH0Hc4-EY5mObRc44/edit?usp=sharing))
+* "Money": Sergej Kurakin
 
 ## VilniusPHP 0x50 (2019-07-04)
 * "Migrations: Hacks or architecture" Aurelijus Banelis ([Slides](https://aurelijus.banelis.lt/prezentations/vilniusphp-2019/migrations-v1.pdf), [Video](https://youtu.be/XwXd3nuqbSE))
