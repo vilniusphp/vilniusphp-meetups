@@ -2,9 +2,45 @@
 
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
+
+## VilniusPHP 0x5b (2020-06-04)
+* "Technologies changing how we think" Aurelijus Banelis ([Slides](https://aurelijus.banelis.lt/prezentations/vilniusphp-2020/Technologies-changing-how-we-think-v2.pdf), [Video](https://www.youtube.com/watch?v=jvE6FiJ4ImI]))
+
+## VilniusPHP 0x5a (2020-05-07)
+* "From a monolith to a distributed monolith" Andrejs Abrickis
+* "Intro into BDD" Ciaran McNulty
+* "Nustatymai kaip kodas" Justas Butkus
+
+## VilniusPHP 0x59 (2020-04-02)
+* "Reducing energy usage of your website" Linas Levanas
+* "Kas gero MySQL 8.0" Žilvinas Kuusas
+* "Preparing & surviving Black Friday" Marco Rosello
+
+## VilniusPHP 0x58 (2020-03-05)
+* "Intro to exotic php bugs" Dominykas Seikis
+* "Identifying Microservices" Edvardas Kazlauskas
+* "Integration hell or 'Could you download XML file from our FTP?'" Darius Leskauskas
+
+## VilniusPHP 0x57 (2020-02-06)
+* "Events vs Hooks" Antanas Končius ([Slides](2020-02-06/Events%20vs.%20Hooks.pdf))
+* "Blind spots Transitioning from developer to team lead" Mindaugas Pelionis
+* "Elliptic-curve cryptography" Laurynas Gerbutavicius
+
+## VilniusPHP 0x56 (2020-01-08)
+* "Svelte" Rimantas Liubertas
+* "Good enough tests" Osvaldas Grigas
+
+## VilniusPHP 0x55 (2019-12-05)
+* "Higiena statybų aikštelėje" Justas Butkus
+* "Sustainable Speed" Mindaugas Mozūras
+
 ## VilniusPHP 0x54 (2019-11-07)
 * "The Secret Life Of APCu & OPCache" Darius Leskauskas
 * "HTTP/3" Marius Balčytis ([Slides](https://slides.maba.lt/http3/), [Blog post](https://paysera.engineering/http-3/))
+
+## VilniusPHP 0x53 (2019-10-03)
+* "Gerosios praktikos" Žilvinas Kuusas
+* "PHP Naughty Session" _Visi norintys_
 
 ## VilniusPHP 0x52 (2019-09-05)
 * "How AWS handles security" Aurelijus Banelis ([Slides](https://aurelijus.banelis.lt/prezentations/vilniusphp-2019/aws-security-v1.pdf), [Video](https://youtu.be/mu9Xu7L0OWw))
