@@ -3,6 +3,10 @@
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
 
+## VilniusPHP 0x71 (2021-10-07)
+* "Just a typo? Drawing the line between data and logic" Aurelijus Banelis ([Slides](https://aurelijus.banelis.lt/prezentations/vilniusphp-2021/Data-vs-logic-issue-v1.pdf), [Video](https://youtu.be/zuYq_j29vsc))
+* "Discovering ADR API architecture pattern" Edvardas Kazlauskas
+
 ## VilniusPHP 0x63 (2021-02-04)
 * "SOLID Principles In PHP" Nerijus Žutautas ([Slides](https://slack-files.com/T04EZCY7Y-F01MQV5H7Q8-4f3aa62a8a))
 * "Story of the robots: lessons learned while building our own WMS" Nerijus Bistrickis ([Slides](https://slack-files.com/T04EZCY7Y-F01LLMPCP9V-d73076cac8))
