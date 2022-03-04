@@ -2,6 +2,10 @@
 
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 
+## VilniusPHP 0x76 (2022-03-03)
+* "Performance Budget" Irmantas Zenkus ([Video](https://youtu.be/gDa7o_4p1R0?t=497))
+* "Supply data processing evolution @ HomeToGo" Darius Kasiulevičius ([Video](https://youtu.be/gDa7o_4p1R0?t=2624))
+* "Passwords, users? No. All you need is metamask and Web3" Eimantas Tauklys([Video](https://youtu.be/gDa7o_4p1R0?t=5326))
 
 ## VilniusPHP 0x71 (2021-10-07)
 * "Just a typo? Drawing the line between data and logic" Aurelijus Banelis ([Slides](https://aurelijus.banelis.lt/prezentations/vilniusphp-2021/Data-vs-logic-issue-v1.pdf), [Video](https://youtu.be/zuYq_j29vsc))
