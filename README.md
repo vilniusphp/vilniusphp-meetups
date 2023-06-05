@@ -1,6 +1,10 @@
 # VilniusPHP Meetups
 
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
+## VilniusPHP 0x86 (2023-06-01)
+* "VilniusPHP Intro" Jevgenij Liachovič ([Slides](2023-06-01/VilniusPHP_23Q2.pdf))
+* "Temporal: sweet theory" Jevgenij Liachovič @ Ovoko ([Slides](2023-06-01/Temporal_sweet_theory.pdf))
+* "Transition story: x64 to ARM & MySQL to Aurora" Darius Leskauskas @ Frontu ([Slides](2023-06-01/VilniusPHP_arm_aurora.pdf))
 
 ## VilniusPHP 0x76 (2022-03-03)
 * "Performance Budget" Irmantas Zenkus ([Video](https://youtu.be/gDa7o_4p1R0?t=497))
