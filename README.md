@@ -1,6 +1,10 @@
 # VilniusPHP Meetups
 
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
+## VilniusPHP 0x87 (2023-09-07)
+* "Photography and Software Engineering – I thought it’s different… but it appears it’s not." Sergej Kurakin @ Ovoko ([Slides](2023-09-07/Photography_and_Software_Engineering.pdf))
+* "Cloud Design Patterns in Practice" Darius Kasperavičius @ KiloHealth
+
 ## VilniusPHP 0x86 (2023-06-01)
 * "VilniusPHP Intro" Jevgenij Liachovič ([Slides](2023-06-01/VilniusPHP_23Q2.pdf))
 * "Temporal: sweet theory" Jevgenij Liachovič @ Ovoko ([Slides](2023-06-01/Temporal_sweet_theory.pdf))
