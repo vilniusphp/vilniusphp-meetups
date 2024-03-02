@@ -1,6 +1,11 @@
 # VilniusPHP Meetups
 
 Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
+## VilniusPHP 0x88 (2023-12-07)
+* "PHP darbo aplinkos virtualizavimas su Multipass" Mantas Šimkūnas  @ twoday 
+* "Refactoring Legacy Application using the Strangler Fig Pattern" Linas Mačiulis @ Ovoko ([Slides](2023-12-07/VilniusPHP%200x88%20Strangler%20Fig%20Pattern.pdf))
+
+* Presentations from [VilniusPHP](http://www.vilniusphp.lt) community meetups.
 ## VilniusPHP 0x87 (2023-09-07)
 * "Photography and Software Engineering – I thought it’s different… but it appears it’s not." Sergej Kurakin @ Ovoko ([Slides](2023-09-07/Photography_and_Software_Engineering.pdf))
 * "Cloud Design Patterns in Practice" Darius Kasperavičius @ KiloHealth
